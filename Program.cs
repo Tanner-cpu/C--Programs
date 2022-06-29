@@ -1,5 +1,5 @@
 ﻿/*
- * Name: Tanneer Boswell
+ * Name: Tanner Boswell
  * Class: 490-01
  * Assignmnet: Program 2
  * Date: 04-11-2022
